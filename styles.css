@@ -1,0 +1,38 @@
+body
+	{margin:0; padding:0; border:none; background-color:#e7ffe5;
+		font-family: Arial;}
+#container
+	{ background-color: white; margin-left:50px; margin-right:50px; 
+	height:100%; width:90%;}
+#header 
+	{background-color: green; color:white; font-size:60px;}
+#search 
+	{margin-top:1%;float:left;}
+#Register 
+	{margin-top:1%;float:right}
+a{text-decoration:none; color:green;}
+a:hover{text-decoration:underline;}
+#left_img
+	{float:left; clear:left; width:90px; height:100px;}
+#right_img
+	{float:right; clear:right;}
+#topList
+	{clear:both;}
+table.top, table.bottom{width:100%; text-align: center;}
+td.top{ background-color:#aaffa3; padding: 15px;}
+#Vegetables
+	{clear:both; width:25%;float:left;}
+#content
+	{float:left; width:70%} 
+#midPics
+	{clear: both;}
+
+img.pic { height:190px; width:160px;}
+td.pic{padding:1px;}
+td.caption{padding:6px; color:green; text-align:center;}
+#bottomList
+	{clear:both; width:100%}
+td.bottom, td.email{background:#9C9; padding:15px}
+
+	
+
